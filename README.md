@@ -1,5 +1,5 @@
 # MOVIE-APP
-# http:://mehmet-film-listesi.netlify.app
+# http://mehmet-film-listesi.netlify.app
 
 
 # Getting Started with Create React App
